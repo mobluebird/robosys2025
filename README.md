@@ -2,7 +2,7 @@
 ロボットシステム学課題1
 
 #plusコマンド
-![test](https://github.com/mobluebird/robosys2025/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/mobluebird/robosys2025/actions/workflows/test.yml/badge.sv)
 
 標準入力から読み込んだ数字を足す。
 (ここに前のページの項目をいろいろ書く)
@@ -12,7 +12,7 @@
  -テスト済みバージョン:3.7～3.14
 
 ##テスト環境
-- Ubuntu 24.04.5https://github.com/mobluebird/robosys2025/blob/main/.github/workflows/test.yml LTS
+- Ubuntu 24.04.5 LTS
 
 
 - このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
