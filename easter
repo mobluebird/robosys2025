@@ -26,7 +26,8 @@ def main():
     for line in sys.stdin:
         line = line.strip()
         if not line:
-            continue
+            print(f"入力が空です", file=sys.stderr)
+            sys.exit(1)
         try:
             year = int(line)
             print(easter(year))
