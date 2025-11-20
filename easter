@@ -32,6 +32,7 @@ def main():
             print(easter(year))
         except ValueError:
             print(f"入力が正しくありません: {line}", file=sys.stderr)
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()
