@@ -1,5 +1,5 @@
 # easterコマンド
-![test](https://github.com/mobluebird/robosys2025/actions/workflows/test.yml/badge.svg)
+[![test](https://github.com/mobluebird/robosys2025/actions/workflows/test.yml/badge.svg)](https://github.com/mobluebird/robosys2025/actions/workflows/test.yml)
 ![Python](https://img.shields.io/badge/Python-3.7--3.14-blue)
 ![License](https://img.shields.io/badge/License-BSD--3--Clause-green.svg)
 
