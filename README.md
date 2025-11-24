@@ -53,7 +53,7 @@ $ bash ./test.bash
 OK
 ```
 - GitHub Actions
-  - 上部のバッジで最新のテスト状態を確認できます。
+  - 上部のバッジで最新のテスト状態を確認できます
 
 ## 必要なライブラリ
 - 標準ライブラリ
@@ -66,14 +66,24 @@ OK
 - Ubuntu 24.04 LTS
 
 ## 謝辞
-
-
-## ライセンスと著作権
-- このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます。
-- このパッケージのコードの一部は，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです。
+- Web記事
+  - 暦Wiki：イースター
+    https://eco.mtk.nao.ac.jp/koyomi/wiki/A5A4A1BCA5B9A5BFA1BC.html
+  - イースターの日付（jmedia.wiki）
+    https://jmedia.wiki/%25E3%2581%25AE%25E6%259A%25A6/Date_of_Easter
+  - イースター（復活祭）の日付（日本ナザレン教団）
+    https://www.nazarene.or.jp/br1/easter.html
+## 利用・参照したコード
+- このパッケージのコードの一部は，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたもので
+す。
   - [ryuichiueda/slides_marp/robosys2025](https://github.com/ryuichiueda/slides_marp/tree/master/robosys2025)
-- イースター日付計算ロジックは以下の ISC ライセンスの実装を参考にしました。  
-  - dim13/easter  
-    https://github.com/dim13/easter/blob/master/easter.go  
-    (c) 2015 dim13, ISC License
-- © 2025 Motona Shigehisa
+- イースター日付計算ロジックは、以下の ISC License の実装を参考にしました。
+  - dim13/easter
+    https://github.com/dim13/easter/blob/master/easter.go
+    © 2015 dim13, ISC License
+
+## ライセンス
+- このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます。
+
+## 著作権
+© 2025 Motona Shigehisa
