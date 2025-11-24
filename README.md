@@ -52,7 +52,7 @@ $ echo 2025 | ./easter
 $ bash ./test.bash
 OK
 ```
-- GitHub Actions（自動テスト）
+- GitHub Actions
 上部のバッジで最新のテスト状態を確認できる。
 
 ## 必要なライブラリ
