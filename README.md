@@ -30,7 +30,7 @@ $ echo "abc" | ./easter
 以下の手順で行ってください。
 - リポジトリをクローンします
 ```
-$ git clone https://github.com/mobluebird/robosys2025.git$ cd robosys2025
+$ git clone https://github.com/mobluebird/robosys2025.git
 ```
 - ディレクトリに移動します
 ```
