@@ -73,7 +73,7 @@ OK
 - 利用・参照したコード
   - このパッケージのコードの一部は，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです。
     - [ryuichiueda/slides_marp/robosys2025](https://github.com/ryuichiueda/slides_marp/tree/master/robosys2025)
-  - イースター日付計算ロジックは、以下の Dimitri Sokolyuk のコマンドを参考にしました。
+  - イースター日付計算ロジックは、下記のコードを参考にしました。
     - [dim13/easter](https://github.com/dim13/easter/blob/master/easter.go) © 2019 Dimitri Sokolyuk, ISC License
 
 ## ライセンス
