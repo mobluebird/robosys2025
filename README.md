@@ -27,33 +27,13 @@ $ echo "abc" | ./easter
 ```
 
 ## 使用方法
-以下の手順で行ってください。
-- リポジトリをクローンします
+以下の手順で実行してください。
 ```
-$ git clone https://github.com/mobluebird/robosys2025.git
+git clone https://github.com/mobluebird/robosys2025.git
+cd robosys2025
+chmod +x easter
+echo 2025 | ./easter
 ```
-- ディレクトリに移動します
-```
-$ cd robosys2025
-```
-- 実行権限を付与します
-```
-$ chmod +x easter
-```
-これで ./easter として使えるようになります。
-- 実行します
-```
-$ echo 2025 | ./easter
-```
-
-## テスト方法
-- 付属のテストスクリプト test.bash を実行します
-```
-$ bash ./test.bash
-OK
-```
-- GitHub Actions
-  - 上部のバッジで最新のテスト状態を確認できます
 
 ## 必要なライブラリ
 - 標準ライブラリ
