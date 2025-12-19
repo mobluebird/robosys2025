@@ -29,10 +29,10 @@ $ echo "abc" | ./easter
 ## 使用方法
 以下の手順で実行してください。
 ```
-git clone https://github.com/mobluebird/robosys2025.git
-cd robosys2025
-chmod +x easter
-echo 2025 | ./easter
+$ git clone https://github.com/mobluebird/robosys2025.git
+$ cd robosys2025
+$ chmod +x easter
+$ echo 2025 | ./easter
 ```
 
 ## 必要なライブラリ
